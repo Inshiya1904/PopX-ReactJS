@@ -5,10 +5,10 @@ const Landing = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50 px-4">
-      <div className="w-full max-w-sm text-center space-y-4">
+    <div className="min-h-screen flex items-center justify-center bg-gray-50 px-4 py-5">
+      <div className="w-full max-w-sm text-center space-y-4 bg-gray-100 border border-gray-300 pt-100 pb-10 px-5">
         <h1 className="text-2xl font-semibold text-gray-900">Welcome to PopX</h1>
-        <p className="text-gray-400 text-sm">
+        <p className="text-gray-400 text-sm  ">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit,
         </p>
         <button

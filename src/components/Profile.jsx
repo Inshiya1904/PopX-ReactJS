@@ -2,13 +2,12 @@ import React from 'react';
 
 const Profile = ({ user }) => {
   return (
-    <div className="min-h-screen flex items-center justify-center  px-4">
-      <div className="w-full max-w-sm space-y-4 border border-gray-300 ">
-        <div className=' bg-white pt-3 pl-5'>
-        <h2 className="text-xl font-semibold text-gray-900 ">Account Settings</h2> 
-        </div>
-        <div className='bg-gray-200 p-5'>
-        <div className="flex items-center space-x-4">
+    <div className="min-h-screen flex items-center justify-center  px-4 py-5">
+      <div className="w-full max-w-sm space-y-4 bg-white border border-gray-300  ">
+        <h2 className="text-xl font-semibold text-gray-900 px-5 pt-5">Account Settings</h2> 
+       
+        <div className='bg-gray-100 p-5 pb-100 '>
+        <div className="flex items-center space-x-4 ">
           <div className="relative">
             <img
               src="img.jpg"
