@@ -32,12 +32,19 @@ Live Demo 👉 [https://pop-x-react-js.vercel.app](https://pop-x-react-js.vercel
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/pop-x-react-js.git
-cd pop-x-react-js
+https://github.com/Inshiya1904/PopX-ReactJS.git
+cd PopX-ReactJS
 ```
-- Optional: Firebase or similar backend for user data (not included yet)
 
----
+2. **Install Dependencies**
+```bash
+npm install
+```
 
-## 📁 Folder Structure
+3. **Start the App**
+```bash
+npm run dev
+```
+
+
 
