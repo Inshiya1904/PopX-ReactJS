@@ -25,6 +25,16 @@ Live Demo 👉 [https://pop-x-react-js.vercel.app](https://pop-x-react-js.vercel
 
 - **ReactJS** (Functional Components & Props)
 - **Tailwind CSS** (Utility-first CSS Framework)
+
+---
+
+## 📦 Installation
+
+1. **Clone the Repository**
+```bash
+git clone https://github.com/your-username/pop-x-react-js.git
+cd pop-x-react-js
+```
 - Optional: Firebase or similar backend for user data (not included yet)
 
 ---
