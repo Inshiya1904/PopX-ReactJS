@@ -1,12 +1,33 @@
-# React + Vite
+# PopX - ReactJS Profile Settings UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo 👉 [https://pop-x-react-js.vercel.app](https://pop-x-react-js.vercel.app/)
 
-Currently, two official plugins are available:
+## 📌 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**PopX** is a simple, clean, and responsive profile settings UI built with **ReactJS** and **Tailwind CSS**. It demonstrates how to create a user-friendly account settings page with user image upload, profile details, and styled layout components.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 🚀 Features
+
+- ✨ Fully responsive UI
+- 📷 Profile image display with camera icon overlay
+- 📩 Dynamic display of user name and email
+- 🧾 Styled description section
+- 🎨 Tailwind CSS for clean and modern styling
+- 🔄 Component-based architecture
+
+---
+
+## 🛠️ Tech Stack
+
+- **ReactJS** (Functional Components & Props)
+- **Tailwind CSS** (Utility-first CSS Framework)
+- Optional: Firebase or similar backend for user data (not included yet)
+
+---
+
+## 📁 Folder Structure
+
